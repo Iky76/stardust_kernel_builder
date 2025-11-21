@@ -9,8 +9,8 @@ jobs:
 
     env:
       CODENAME: aurora_kddi
-      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-      CHAT_ID: ${{ secrets.CHAT_ID }}
+      BOT_TOKEN: ${{ 7850347739:AAEkBnsEKAnXBVm_s9EMxt4noPI0my2gQGc }}
+      CHAT_ID: ${{ -1003265091665 }}
       KERNEL_VER: Stardust-v1.5rc1
       KERNEL_BRANCH: fourteen-v3
       KERNEL_REPO: https://github.com/Iky76/kernel_xiaomi_mido
